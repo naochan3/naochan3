@@ -42,6 +42,6 @@
 ---
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=naochan3&show_icons=true&theme=dark&hide_border=true&hide_rank=true" height="165" alt="GitHub stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=naochan3&show_icons=true&theme=dark&hide_border=true&hide_rank=true&custom_title=GitHub%20Stats" height="165" alt="GitHub stats" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=naochan3&layout=compact&theme=dark&hide_border=true" height="165" alt="Top languages" />
 </p>
