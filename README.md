@@ -4,6 +4,8 @@
 
 *Engineer turning messy business problems into working systems with AI and software.*
 
+Tokyo, Japan · [ishioka.hironao@gmail.com](mailto:ishioka.hironao@gmail.com)
+
 ![AI-assisted development](https://img.shields.io/badge/AI--assisted%20development-0B0B0B?style=flat-square)
 ![Claude Code](https://img.shields.io/badge/Claude%20Code-D97757?style=flat-square&logo=claude&logoColor=white)
 ![Codex](https://img.shields.io/badge/Codex-412991?style=flat-square)
